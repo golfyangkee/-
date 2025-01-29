@@ -47,7 +47,7 @@ P-value = 0.00146 → 매우 유의미한 영향
 ---
 
 ## 🛠 사용된 기술
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook**
 - **Statsmodels** (회귀분석)
 - **Scipy** (통계 분석)
@@ -66,7 +66,7 @@ P-value = 0.00146 → 매우 유의미한 영향
 ## 🚀 실행 방법
 ### 1️⃣ **필요한 라이브러리 설치**
 ```bash
-pip install pandas numpy matplotlib seaborn statsmodels openpyxl
+pip install pandas matplotlib seaborn statsmodels openpyxl
 ```
 ### 2️⃣ **Jupyter Notebook 실행**
 ```bash
